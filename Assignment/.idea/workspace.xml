@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f23546b-8f20-40f5-ac52-894e7846f392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise21_Kriangkrai_T.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture104_Kriangkrai_T.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise21_Kriangkrai_T">
+  <component name="RunManager" selected="Python.Lecture104_Kriangkrai_T">
     <configuration name="Exercise21_Kriangkrai_T" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture54_Kriangkrai_T (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture104_Kriangkrai_T" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture54_Kriangkrai_T.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture104_Kriangkrai_T.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,19 +238,19 @@
       <item itemvalue="Python.Exercise71_Kriangkrai_T" />
       <item itemvalue="Python.Lecture54_Kriangkrai_T" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Lecture54_Kriangkrai_T (1)" />
       <item itemvalue="Python.Lecture71_Kriangkrai_T" />
       <item itemvalue="Python.Lecture72_Kriangkrai_T" />
       <item itemvalue="Python.Lecture73_Kriangkrai_T" />
       <item itemvalue="Python.Exercise21_Kriangkrai_T" />
+      <item itemvalue="Python.Lecture104_Kriangkrai_T" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture104_Kriangkrai_T" />
         <item itemvalue="Python.Exercise21_Kriangkrai_T" />
         <item itemvalue="Python.Lecture72_Kriangkrai_T" />
         <item itemvalue="Python.Lecture73_Kriangkrai_T" />
         <item itemvalue="Python.Lecture71_Kriangkrai_T" />
-        <item itemvalue="Python.Lecture54_Kriangkrai_T" />
       </list>
     </recent_temporary>
   </component>
